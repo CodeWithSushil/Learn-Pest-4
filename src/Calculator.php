@@ -4,9 +4,9 @@ declare(strict_types=1);
 
 namespace App;
 
-class Calculator {
+final class Calculator {
   
-  public function sum(int $a, int $b): int
+  public static function sum(int $a, int $b): int
   {
       return $a + $b;
   }

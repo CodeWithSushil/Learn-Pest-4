@@ -1,5 +1,9 @@
-<?php 
+<?php
+
+namespace Tests;
+
+use App\Calculator;
 
 test('sum', function() {
-    expect(4 + 4)->toBe(8);
+    expect(Calculator::sum(4, 4))->toBe(8);
 });
