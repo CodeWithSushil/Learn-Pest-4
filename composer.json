@@ -1,4 +1,7 @@
 {
+    "name": "codewithsushil/learn-pest",
+    "description": "Learn testing with Pest 4",
+    "license":"MIT",
     "autoload":{
         "psr-4": {
             "App\\": "src/"
@@ -13,7 +16,7 @@
         "pestphp/pest": "^4.1"
     },
     "scripts": {
-        "unit": "vendor/bin/pest"
+        "test": "vendor/bin/pest"
     },
     "config": {
         "allow-plugins": {
