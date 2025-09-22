@@ -2,7 +2,7 @@
 
 learn **Pest PHP** testing freamework letest version (v4.0.0).
 
-[![Testing Pest-PHP](https://github.com/CodeWithSushil/Learn-Pest-4/actions/workflows/tests.yml/badge.svg)](https://github.com/CodeWithSushil/Learn-Pest-4/actions/workflows/tests.yml)
+[![Testing Pest-PHP](https://github.com/CodeWithSushil/Learn-Pest-4/actions/workflows/tests.yml/badge.svg?branch=master)](https://github.com/CodeWithSushil/Learn-Pest-4/actions/workflows/tests.yml)
 
 ---
 
